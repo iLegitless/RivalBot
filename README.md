@@ -1,0 +1,2 @@
+# RivalBot
+RivalBot
